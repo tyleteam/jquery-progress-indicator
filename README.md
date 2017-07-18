@@ -7,7 +7,7 @@ DEMO : http://codepen.io/zidell/pen/XNzQyV
 
 ## Usage
 ```
-<script src="https://cdn.rawgit.com/tyleteam/jquery-progress-indicator/master/jquery-progress-indicator-1.0.5.min.js"></script>
+<script src="https://cdn.rawgit.com/tyleteam/jquery-progress-indicator/master/jquery-progress-indicator-1.0.6.min.js"></script>
 
 <script>
     $.progressIndicator();
