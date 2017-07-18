@@ -35,3 +35,6 @@ $.progressIndicator({
     }
 });
 ```
+
+## Methods
+`$.progressIndicator('reset');`을 실행하면 일시적으로 진행률이 0으로 됩니다.
