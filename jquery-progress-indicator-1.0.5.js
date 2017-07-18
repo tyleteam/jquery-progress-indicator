@@ -1,5 +1,5 @@
  /*!
- * jQuery Progress Indicator v1.0.0
+ * jQuery Progress Indicator v1.0.5
  * https://github.com/tyleteam/jquery-progress-indicator
  *
  * Copyright 2016 Tubloo Co, Ltd. made by hhlee@tyle.io
