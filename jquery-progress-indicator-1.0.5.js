@@ -10,6 +10,18 @@
  */
 (function ($) {
     $.progressIndicator = function(options){
+        if (typeof options === 'string') {
+            // methods
+            switch(options) {
+                case 'reset' : {
+                    $('#progress-indicator').css({
+                        transform : 'translate3d(-100%, 0px, 0px)'
+                    });
+                    break;
+                }
+            }
+            return;
+        };
         if(typeof options===undefined){
             options = {};
         }
